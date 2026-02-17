@@ -1,8 +1,0 @@
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\bin\Debug\Sistema_elevador_1378524.exe
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\bin\Debug\Sistema_elevador_1378524.exe.config
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\obj\Debug\Sistema_elevador_1378524.csproj.AssemblyReference.cache
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\obj\Debug\Sistema_elevador_1378524.csproj.CoreCompileInputs.cache
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\obj\Debug\Sistema_elevador_1378524.exe
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\obj\Debug\Sistema_elevador_1378524.pdb
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\obj\Debug\Sistema_elevador_1378524.exe.config
-C:\Users\Jersson BG\source\repos\Sistema_elevador_1378524\Sistema_elevador_1378524\bin\Debug\Sistema_elevador_1378524.pdb
